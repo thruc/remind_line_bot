@@ -1,2 +1,1 @@
-# RemindEx
-new
+# remind_line_bot
